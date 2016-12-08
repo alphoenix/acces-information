@@ -20,7 +20,7 @@ Depuis le 9 octobre, et la loi pour une République numérique, les documents do
 
 ### La demande
 
-Si une adminstration vous refuse expressément l'accès à un document, ou si elle ne répond pas à votre demande après un mois, c'est gagné ! Vous pouvez saisir [la CADA](http://www.cada.fr/). Ceci est aussi simple qu'un mail, avec «Bonjour» et «je saisis la CADA à la suite du refus de telle administration», en ajoutant la réponse négative ou en expliquant qu'il n'y a pas eu de réponse. La CADA donnera son avis – après avoir discuté avec l'administration – à l'occasion d'une commission, ce qui peut parfois prendre plusieurs mois. 
+Si une administration vous refuse expressément l'accès à un document, ou si elle ne répond pas à votre demande après un mois, c'est gagné ! Vous pouvez saisir [la CADA](http://www.cada.fr/). Ceci est aussi simple qu'un mail, avec «Bonjour» et «je saisis la CADA à la suite du refus de telle administration», en ajoutant la réponse négative ou en expliquant qu'il n'y a pas eu de réponse. La CADA donnera son avis – après avoir discuté avec l'administration – à l'occasion d'une commission, ce qui peut parfois prendre plusieurs mois. 
 
 ### Faire pression
 
@@ -32,7 +32,7 @@ Le seul problème : l'avis favorable de la CADA n'est pas du tout contraignant. 
 
 ### Astuce
 
-Si votre demande est refusée par la CADA, n'hésitez pas à solliciter la CADA pour obtenir les échanges entre la commission et l'administration à propos de votre demande. Vous obtiendrez peut-être des renseignements qui vous permettront de repréciser votre demande. L'administration est tétue dans son souhait de rester discrète, elle utilisera toutes les excuses pour ne pas fournir ce qu'elle n'a pas envie de diffuser.
+Si votre demande est refusée par la CADA, n'hésitez pas à solliciter la saisir de nouveau pour obtenir les échanges entre la commission et l'administration à propos de votre demande. Vous obtiendrez peut-être des renseignements qui vous permettront de repréciser votre demande. L'administration est tétue dans son souhait de rester discrète, elle utilisera toutes les excuses pour ne pas fournir ce qu'elle n'a pas envie de diffuser.
 
 ## La saisine de l'Administrateur général des données (AGD)
 
@@ -48,9 +48,9 @@ recherche site:gouv.fr filetype:xls
 
 ## L'Union européenne
 
-Le droit d'accès aux données existe aussi pour les institutions de l'Union Européennes. Ces institutions incluent la Commission Européenne (qui gère des programmes comme Erasmus ou la politique agricole commune), le Parlement Européen, le Conseil de l'Union, la Cour de Justice, Frontex, Europol etc. Elles n'incluent pas les institutions qui ne font pas partie de l'Union, comme le Conseil de l'Europe.
+Le droit d'accès aux données existe aussi pour les institutions de l'Union Européenne. Ces institutions incluent la Commission Européenne (qui gère des programmes comme Erasmus ou la Politique Agricole Commune), le Parlement Européen, le Conseil de l'Union, la Cour de Justice, Frontex, Europol etc. Elles n'incluent pas les institutions qui ne font pas partie de l'Union, comme le Conseil de l'Europe.
 
-Les institutions de l'Union sont soumises au [règlement 1049/2001](http://www.europarl.europa.eu/RegData/PDF/r1049_fr.pdf). Ce règlement dispose peu ou prou des mêmes choses que la loi française. Le requiérant doit adresser sa demande à l'institution et attendre 15 jours calendaires d'obtenir une réponse. A l'issu des 15 jours, l'institution doit répondre ou avertir le requiérant qu'elle a besoin de 15 jours de plus. A l'issue de ce délai, le requiérant qui n'a toujours pas obtenu de réponse peut demander au Médiateur de l'Union de se saisir du dossier.
+Les institutions de l'Union sont soumises au [règlement 1049/2001](http://www.europarl.europa.eu/RegData/PDF/r1049_fr.pdf). Ce règlement dispose peu ou prou des mêmes choses que la loi française. Le requérant doit adresser sa demande à l'institution et attendre 15 jours calendaires d'obtenir une réponse. A l'issue des 15 jours, l'institution doit répondre ou avertir le requérant qu'elle a besoin de 15 jours de plus. A l'issue de ce délai, le requérant qui n'a toujours pas obtenu de réponse peut demander au Médiateur de l'Union de se saisir du dossier.
 
 Vous pouvez faire votre demande en français.
 
@@ -58,7 +58,7 @@ Vous pouvez faire votre demande en français.
 
 L'esprit des institutions européennes est fort différent de celui des institutions françaises. Là où une mairie ou une préfecture peut ignorer la loi et s'en vanter, les fonctionnaires européens la respectent quasiment tous à la lettre. Cela ne signifie pas pour autant qu'ils aiment que l'on s'intéresse à leurs affaires! En général, ils attendent le soir du 15<sup>e</sup> jour après que vous avez envoyé votre demande pour vous avertir qu'ils ont besoin de 15 jours supplémentaires. Là, ils vous enverront les documents demandés. 
 
-Si le document concerne la diplomatie, il vous sera refusé pour défendre la sécurité des états-membres (what else). Si le fichier est volumineux, ils vous l'imprimeront et vous le feront parvenir par la poste, en courrier recommandé. (Le règlmement 1049/2001 dispose que le requiérant a le droit de demander des documents au format électronique: Il faut alors refaire une demande en spécifiant le format demandé.)
+Si le document concerne la diplomatie, il vous sera refusé pour défendre la sécurité des états-membres (what else). Si le fichier est volumineux, ils vous l'imprimeront et vous le feront parvenir par la poste, en courrier recommandé. (Le règlement 1049/2001 dispose que le requérant a le droit de demander des documents au format électronique: Il faut alors refaire une demande en spécifiant le format demandé.)
 
 ### AskTheEU.org
 
@@ -66,4 +66,4 @@ Pour centraliser les demandes effectuées par les citoyens, l'organisation espag
 
 ### L'Union reste une bonne source
 
-Les institutions de l'Union ont souvent un rôle d'agrégation et de contrôle des états nationaux. Il n'est pas rare qu'un information qui vous est refusée en France soit envoyée à une institution communautaire qui, elle, vous transmettra les données.
+Les institutions de l'Union ont souvent un rôle d'agrégation et de contrôle des états nationaux. Il n'est pas rare qu'une information qui vous est refusée en France soit envoyée à une institution communautaire qui, elle, vous transmettra les données.
