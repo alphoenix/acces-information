@@ -1,6 +1,6 @@
 # Accès aux informations publiques
 
-Malgré les nombreuses démarches d'open-data entreprises en France, nombre d'adminstrations rechignent encore à partager les informations en leur possession, surtout à travers le filtre du service de communication d'un ministère. Quelques rappels à destination des journalistes sur les différents moyens existants pour accéder à ces documents. 
+Malgré les nombreuses démarches d'open-data entreprises en France, nombre d'administrations rechignent encore à partager les informations en leur possession, surtout à travers le filtre du service de communication d'un ministère. Quelques rappels à destination des journalistes sur les différents moyens existants pour accéder à ces documents. 
 
 1. [La demande directe](#la-demande-directe)
 2. [La CADA](#la-cada)
@@ -24,7 +24,7 @@ Si une administration vous refuse expressément l'accès à un document, ou si e
 
 ### Faire pression
 
-Faire [un article sur une demande CADA](http://emploi.blog.lemonde.fr/2013/06/17/le-monde-depose-un-recours-pour-obtenir-des-chiffres-de-pole-emploi/) ou sur un avis favorable de celle-ci est une bonne occasion de faire un peu plus pression sur l'administration non-conciliante et de la mettre devant ses responsabilités. Parfois, la simple saisie de la CADA, avant même une réponse de la condition, est une pression suffisante pour que l'administration consente à fournir les données.
+Faire [un article sur une demande CADA](http://emploi.blog.lemonde.fr/2013/06/17/le-monde-depose-un-recours-pour-obtenir-des-chiffres-de-pole-emploi/) ou sur un avis favorable de celle-ci est une bonne occasion de faire un peu plus pression sur l'administration non-conciliante et de la mettre devant ses responsabilités. Parfois, la simple saisie de la CADA, avant même une réponse de la [condition]( <---je n'ai pas compris ce mot là...), est une pression suffisante pour que l'administration consente à fournir les données.
 
 ### Faire appliquer l'avis
 
