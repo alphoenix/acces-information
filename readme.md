@@ -43,7 +43,7 @@ C'est la version agile de la demande CADA. C'est un petit outil assez efficace q
 Les services en ligne des administrations ne sont pas toujours autant protecteurs qu'elles le souhaitent. Une recherche Google sur les sites en .gouv.fr avec une précision du type de fichier recherchés peut parfois donner lieu à des surprises.
 
 ```
-recherche site:gouv.fr type:xls
+recherche site:gouv.fr filetype:xls
 ```
 
 ## L'Union européenne
