@@ -42,4 +42,22 @@ recherche site:gouv.fr type:xls
 
 ## L'Union européenne
 
-L'accès aux données est beaucoup plus organisé au niveau européen. 
+Le droit d'accès aux données existe aussi pour les institutions de l'Union Européennes. Ces institutions incluent la Commission Européenne (qui gère des programmes comme Erasmus ou la politique agricole commune), le Parlement Européen, le Conseil de l'Union, la Cour de Justice, Frontex, Europol etc. Elles n'incluent pas les institutions qui ne font pas partie de l'Union, comme le Conseil de l'Europe.
+
+Les institutions de l'Union sont soumises au [règlement 1049/2001](http://www.europarl.europa.eu/RegData/PDF/r1049_fr.pdf). Ce règlement dispose peu ou prou des mêmes choses que la loi française. Le requiérant doit adresser sa demande à l'institution et attendre 15 jours calendaires d'obtenir une réponse. A l'issu des 15 jours, l'institution doit répondre ou avertir le requiérant qu'elle a besoin de 15 jours de plus. A l'issue de ce délai, le requiérant qui n'a toujours pas obtenu de réponse peut demander au Médiateur de l'Union de se saisir du dossier.
+
+Vous pouvez faire votre demande en français.
+
+### Une différence culturelle
+
+L'esprit des institutions européennes est fort différent de celui des institutions françaises. Là où une mairie ou une préfecture peut ignorer la loi et s'en vanter, les fonctionnaires européens la respectent quasiment tous à la lettre. Cela ne signifie pas pour autant qu'ils aiment que l'on s'intéresse à leurs affaires! En général, ils attendent le soir du 15<sup>e</sup> jour après que vous avez envoyé votre demande pour vous avertir qu'ils ont besoin de 15 jours supplémentaires. Là, ils vous enverront les documents demandés. 
+
+Si le document concerne la diplomatie, il vous sera refusé pour défendre la sécurité des états-membres (what else). Si le fichier est volumineux, ils vous l'imprimeront et vous le feront parvenir par la poste, en courrier recommandé. (Le règlmement 1049/2001 dispose que le requiérant a le droit de demander des documents au format électronique: Il faut alors refaire une demande en spécifiant le format demandé.)
+
+### AskTheEU.org
+
+Pour centraliser les demandes effectuées par les citoyens, l'organisation espagnole AccessInfo a développé la plateforme [AskTheEu.org](https://www.asktheeu.org/). Là, vous pouvez consulter les demandes effectuées par d'autres et envoyer les votres. Toutefois, la Commission fait tout pour nuire au site. Alors que les fonctionnaires européens répondaient auparavant par e-mail directement sur la plateforme, ils exigent maintenant une adresse physique où envoyer leur réponse, en papier et en recommandé. On ignore pourquoi ils s'acharnent à dépenser l'argent du contribuable de la sorte, mais il n'est pas impossible qu'ils préparent à renégocier le réglement 1049/2001 au motif que les demandes d'information coûtent trop cher.
+
+### L'Union reste une bonne source
+
+Les institutions de l'Union ont souvent un rôle d'agrégation et de contrôle des états nationaux. Il n'est pas rare qu'un information qui vous est refusée en France soit envoyée à une institution communautaire qui, elle, vous transmettra les données.
