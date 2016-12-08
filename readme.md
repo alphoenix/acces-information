@@ -2,6 +2,12 @@
 
 Malgré les nombreuses démarches d'open-data entreprises en France, nombre d'adminstrations rechignent encore à partager les informations en leur possession, surtout à travers le filtre du service de communication d'un ministère. Quelques rappels à destination des journalistes sur les différents moyens existants pour accéder à ces documents. 
 
+1. [La demande directe](#la-demande-directe)
+2. [La CADA](#la-cada)
+3. [La saisine de l'AGD](#la-saisine-de-ladministrateur-général-des-données-agd)
+4. [Le coup de bol](#le-coup-de-bol)
+5. [L'Union Européenne](#lunion-européenne)
+
 ## La demande directe
 
 Le meilleur moyen d'avoir accès à des informations de la part des administrations est de leur demander. Mais c'est au bon vouloir de l'administration. Plusieurs points de contact : le service de communication du ministère (ou de l'administration), mais aussi le chargé de communication du cabinet du ministre ou alors, après une petite recherche, la personne responsable de ces informations (parfois, ça fonctionne).
